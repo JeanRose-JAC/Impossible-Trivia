@@ -7,7 +7,7 @@ Welcome to Impossible Trivia, a game born from my first Programming class advent
 Impossible Trivia is not your ordinary trivia game; it's a unique fusion of trivia and a 'chasing' game. Players face questions, and the challenge lies in chasing down the correct letter of their answer using the arrow keys.
 
 ## Launch the game
-1. Download the Game: Simply grab the .zip file and unzip it to access the program.
+1. Download the Game: Simply grab the .zip file from the release section and unzip it to access the program.
 2. Run the Program: Execute the program to dive into the world of Impossible Trivia.
 
 ## How to play
